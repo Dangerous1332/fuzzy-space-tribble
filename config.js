@@ -16,7 +16,7 @@ global.autoRecord = true; //auto recording (true to on, false to off)
 
 //
 global.Owner = ["923177009359"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ["923455116994"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ["923177009359"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.ownertag = ["923184687747"];
 global.OwnerName = "⏤͟͟͞͞᚜ု᪳𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⁹⁹͢⁴ှ᪳᚛͟͞⏤";
 global.BotName = "THE-SHANI⁹⁹⁴-MD-BOT";
