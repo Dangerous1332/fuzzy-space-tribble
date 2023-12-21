@@ -15,12 +15,12 @@ global.autoRecord = true; //auto recording (true to on, false to off)
 
 
 //
-global.Owner = ["923455116994"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.Owner = ["923177009359"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.OwnerNumber = ["923455116994"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.ownertag = ["923184687747"];
-global.OwnerName = "*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*";
+global.OwnerName = "⏤͟͟͞͞᚜ု᪳𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⁹⁹͢⁴ှ᪳᚛͟͞⏤";
 global.BotName = "THE-SHANI⁹⁹⁴-MD-BOT";
-global.packname = "✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮";  //Do not change.
+global.packname = "⏤͟͟͞͞᚜ု᪳𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⁹⁹͢⁴ှ᪳᚛͟͞⏤";  //Do not change.
 global.author = "@";   //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17";  //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/LRqRpR4EWXADSVtj6XMtZo"; 
